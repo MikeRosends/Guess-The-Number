@@ -13,4 +13,6 @@ Here is what it looks like:
 ![image](https://github.com/MikeRosends/Guess-The-Number/assets/140163593/c18a6303-b446-4df0-9e64-f108114736f0)
 
 
-In the game you have a score and a high score. The score is the number of attemps you have and once you guess the number it becomes your highscore.
+In the game you have a score and a high score.
+The score is the number of attemps you have.
+Once you guess the number, the score becomes your highscore, but only if it's higher then previously established highscore.
