@@ -1,6 +1,7 @@
 Just a quick project with js
 
 Here is what it looks like:
+
 ![image](https://github.com/MikeRosends/Guess-The-Number/assets/140163593/a2646f5f-8430-4727-8106-a69672e0876b)
 
 ![image](https://github.com/MikeRosends/Guess-The-Number/assets/140163593/9266cf37-7a37-4c7f-8b05-d7051936c8ca)
